@@ -1,0 +1,10 @@
+{
+  "urls": [
+    ["rotary.py", "github:kevinkk525/SonosRemote/src/lib/rotary.py"],
+    ["rotary_irq_esp.py", "github:kevinkk525/SonosRemote/src/lib/rotary_irq_esp.py"],
+    ["aswitch.py", "github:kevinkk525/SonosRemote/src/lib/aswitch.py"],
+    ["usyslog.py", "github:kevinkk525/SonosRemote/src/lib/usyslog.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
